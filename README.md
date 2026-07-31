@@ -70,36 +70,6 @@ Ashiyana Group/
 
 ---
 
-## 📧 How to Setup Email Form Submissions
-
-Forms on the **Contact** and **Careers** pages are ready to send emails via Web3Forms.
-
-1. Go to **[web3forms.com](https://web3forms.com)** and create a free Access Key for your email address.
-2. Verify the key link sent to your inbox.
-3. Open `contact.html` and `careers.html` in your text editor.
-4. Replace `YOUR_ACCESS_KEY_HERE` with your Web3Forms Access Key:
-
-```html
-<!-- Example in contact.html & careers.html -->
-<form data-form="contact" data-key="your-actual-web3forms-access-key">
-```
-
----
-
-## 💻 Local Setup & Deployment
-
-### Run Locally
-Since this is a static web application, no server installation or build step is required:
-1. Clone or download this repository:
-   ```bash
-   git clone https://github.com/your-username/ashiyana-group-website.git
-   ```
-2. Navigate into the project folder:
-   ```bash
-   cd ashiyana-group-website
-   ```
-3. Open `index.html` directly in your favorite web browser (Chrome, Firefox, Edge, Safari).
-
 ### Free Hosting Options
 You can deploy this site in under 1 minute using any free static host:
 - **GitHub Pages**: Go to Repository Settings → Pages → Select `main` branch → Save.
@@ -115,9 +85,3 @@ Established in October 2002 by **Mr. Hasinul Haque Mohammad**, Ashiyana Group (A
 - **Headquarters**: Offices 2303 & 2304, Burlington Tower, Business Bay, Dubai, UAE
 - **Email**: info@ashiyanagroup.com
 - **Core Operations**: Civil Engineering, General Building Contracting, Structural Steel Erection, External Landscaping, MEP Contracting.
-
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
